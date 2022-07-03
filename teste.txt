@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20220701">
+<channel id="AEBrazil.br"><display-name>A&amp;E HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AEBrazil.br"><display-name>A&amp;E</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AgroMais.br"><display-name>Agro+ HD HD</display-name><icon src="https://i.imgur.com/sFcOZeo.png"/><url>https://mi.tv</url></channel>
+<channel id="AgroMais.br"><display-name>Agro+ HD</display-name><icon src="https://i.imgur.com/sFcOZeo.png"/><url>https://mi.tv</url></channel>
+<channel id="AmazonSat.br"><display-name>Amazon Sat HD</display-name><icon src="https://i.imgur.com/3NL345p.png"/><url>https://mi.tv</url></channel>
+<channel id="AmazonSat.br"><display-name>Amazon Sat</display-name><icon src="https://i.imgur.com/3NL345p.png"/><url>https://mi.tv</url></channel>
+<channel id="AMCBrazil.br"><display-name>AMC HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AMCBrazil.br"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AnimalPlanetBrazil.br"><display-name>Animal Planet HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AnimalPlanetBrazil.br"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Arte1.br"><display-name>Arte 1 HD</display-name><icon src="https://i.imgur.com/Oo43aQD.png"/><url>https://mi.tv</url></channel>
+<channel id="Arte1.br"><display-name>Arte 1</display-name><icon src="https://i.imgur.com/Oo43aQD.png"/><url>https://mi.tv</url></channel>
+<channel id="AXNBrazil.br"><display-name>AXN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="AXNBrazil.br"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="BabyTV.uk"><display-name>BabyTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"/><url>https://mi.tv</url></channel>
+<channel id="BabyTV.uk"><display-name>BabyTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"/><url>https://mi.tv</url></channel>
+<channel id="BandAmazonas.br"><display-name>Band Amazonas HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_band-amazonas_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandAmazonas.br"><display-name>Band Amazonas</display-name><icon src="https://cdn.mitvstatic.com/channels/br_band-amazonas_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandBahia.br"><display-name>Band Bahia HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_band-bahia_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandBahia.br"><display-name>Band Bahia</display-name><icon src="https://cdn.mitvstatic.com/channels/br_band-bahia_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandCuritiba.br"><display-name>Band Curitiba HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandCuritiba.br"><display-name>Band Curitiba</display-name><icon src="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandNews.br"><display-name>BandNews HD</display-name><icon src="https://i.imgur.com/3YlJsCL.png"/><url>https://mi.tv</url></channel>
+<channel id="BandNews.br"><display-name>BandNews</display-name><icon src="https://i.imgur.com/3YlJsCL.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSaoPaulo.br"><display-name>Band SP HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSaoPaulo.br"><display-name>Band SP</display-name><icon src="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSports.br"><display-name>BandSports HD</display-name><icon src="https://i.imgur.com/BmOhmtd.png"/><url>https://mi.tv</url></channel>
+<channel id="BandSports.br"><display-name>BandSports</display-name><icon src="https://i.imgur.com/BmOhmtd.png"/><url>https://mi.tv</url></channel>
+<channel id="BBCWorldNewsNorthAmerica.uk"><display-name>BBC World News Americas HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="BBCWorldNewsNorthAmerica.uk"><display-name>BBC World News Americas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Bis.br"><display-name>Bis HD</display-name><icon src="https://i.imgur.com/VUt1lmH.png"/><url>https://mi.tv</url></channel>
+<channel id="Bis.br"><display-name>Bis</display-name><icon src="https://i.imgur.com/VUt1lmH.png"/><url>https://mi.tv</url></channel>
+<channel id="BloombergTVBrazil.br"><display-name>Bloomberg TV Brazil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="BloombergTVBrazil.br"><display-name>Bloomberg TV Brazil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="BoasNovas.br"><display-name>Boas Novas HD</display-name><icon src="https://i.imgur.com/ZqhizdP.png"/><url>https://mi.tv</url></channel>
+<channel id="BoasNovas.br"><display-name>Boas Novas</display-name><icon src="https://i.imgur.com/ZqhizdP.png"/><url>https://mi.tv</url></channel>
+<channel id="BoaVontadeTV.br"><display-name>Boa Vontade TV HD</display-name><icon src="https://i.imgur.com/62BHatW.png"/><url>https://mi.tv</url></channel>
+<channel id="BoaVontadeTV.br"><display-name>Boa Vontade TV</display-name><icon src="https://i.imgur.com/62BHatW.png"/><url>https://mi.tv</url></channel>
+<channel id="BoomerangBrazil.br"><display-name>Boomerang HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="BoomerangBrazil.br"><display-name>Boomerang</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalBrasil.br"><display-name>Canal Brasil HD</display-name><icon src="https://i.imgur.com/jr7oYXu.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalBrasil.br"><display-name>Canal Brasil</display-name><icon src="https://i.imgur.com/jr7oYXu.png"/><url>https://mi.tv</url></channel>
+<channel id="CanaldoBoi.br"><display-name>Canal do Boi HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_canal-do-boi_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CanaldoBoi.br"><display-name>Canal do Boi</display-name><icon src="https://cdn.mitvstatic.com/channels/br_canal-do-boi_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalFutura.br"><display-name>Futura HD</display-name><icon src="https://i.imgur.com/LgynEBC.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalFutura.br"><display-name>Futura</display-name><icon src="https://i.imgur.com/LgynEBC.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalOff.br"><display-name>Off HD</display-name><icon src="https://i.imgur.com/4vgYT8o.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalOff.br"><display-name>Off</display-name><icon src="https://i.imgur.com/4vgYT8o.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalRural.br"><display-name>Canal Rural HD</display-name><icon src="https://i.imgur.com/yL4DZoE.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalRural.br"><display-name>Canal Rural</display-name><icon src="https://i.imgur.com/yL4DZoE.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalViva.br"><display-name>Viva HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_viva_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalViva.br"><display-name>Viva</display-name><icon src="https://cdn.mitvstatic.com/channels/br_viva_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CartoonNetworkBrazil.br"><display-name>Cartoon Network HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CartoonNetworkBrazil.br"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ChefTV.br"><display-name>Chef TV HD</display-name><icon src="https://i.imgur.com/UYksTee.png"/><url>https://mi.tv</url></channel>
+<channel id="ChefTV.br"><display-name>Chef TV</display-name><icon src="https://i.imgur.com/UYksTee.png"/><url>https://mi.tv</url></channel>
+<channel id="CineBrasilTV.br"><display-name>CineBrasil TV HD</display-name><icon src="https://i.imgur.com/PyViae3.png"/><url>https://mi.tv</url></channel>
+<channel id="CineBrasilTV.br"><display-name>CineBrasil TV</display-name><icon src="https://i.imgur.com/PyViae3.png"/><url>https://mi.tv</url></channel>
+<channel id="CinemaxBrazil.br"><display-name>Cinemax HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CinemaxBrazil.br"><display-name>Cinemax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CNNBrasil.br"><display-name>CNN BRASIL HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CNNBrasil.br"><display-name>CNN BRASIL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CNNInternationalAsiaPacific.hk"><display-name>CNN Internacional HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="CNNInternationalAsiaPacific.hk"><display-name>CNN Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ComedyCentralBrazil.br"><display-name>Comedy Central HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ComedyCentralBrazil.br"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV1.br"><display-name>CONMEBOL 01 HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV1.br"><display-name>CONMEBOL 01</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV2.br"><display-name>CONMEBOL 02 HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-2_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV2.br"><display-name>CONMEBOL 02</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-2_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV3.br"><display-name>CONMEBOL 03 HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-3_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV3.br"><display-name>CONMEBOL 03</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-3_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV4.br"><display-name>CONMEBOL 04 HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-4_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ConmebolTV4.br"><display-name>CONMEBOL 04</display-name><icon src="https://cdn.mitvstatic.com/channels/br_conmebol-tv-4_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Curta.br"><display-name>Curta! HD</display-name><icon src="https://i.imgur.com/Rwrh0zU.png"/><url>https://mi.tv</url></channel>
+<channel id="Curta.br"><display-name>Curta!</display-name><icon src="https://i.imgur.com/Rwrh0zU.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryChannelBrazil.br"><display-name>Discovery Channel Brasil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryChannelBrazil.br"><display-name>Discovery Channel Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryHomeHealthBrazil.br"><display-name>Discovery Home & Health HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryHomeHealthBrazil.br"><display-name>Discovery Home & Health</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryKidsBrazil.br"><display-name>Discovery Kids HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryKidsBrazil.br"><display-name>Discovery Kids</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryScienceBrazil.br"><display-name>Discovery Science HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryScienceBrazil.br"><display-name>Discovery Science</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTheaterHDLatinAmerica.us"><display-name>Discovery Theater HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTheaterHDLatinAmerica.us"><display-name>Discovery Theater</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTurboBrazil.br"><display-name>Discovery Turbo HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryTurboBrazil.br"><display-name>Discovery Turbo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryWorldHDBrazil.br"><display-name>Discovery World HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryWorldHDBrazil.br"><display-name>Discovery World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="DisneyChannelBrazil.br"><display-name>Disney Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/512px-Disney_channel_2019.png"/><url>https://mi.tv</url></channel>
+<channel id="DisneyChannelBrazil.br"><display-name>Disney Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/512px-Disney_channel_2019.png"/><url>https://mi.tv</url></channel>
+<channel id="DogTV.us"><display-name>DogTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DOGTV_LOGO.jpg/512px-DOGTV_LOGO.jpg"/><url>https://mi.tv</url></channel>
+<channel id="DogTV.us"><display-name>DogTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/DOGTV_LOGO.jpg/512px-DOGTV_LOGO.jpg"/><url>https://mi.tv</url></channel>
+<channel id="DWDeutsch.de"><display-name>DW Deutsch HD</display-name><icon src="https://i.imgur.com/A1xzjOI.png"/><url>https://mi.tv</url></channel>
+<channel id="DWDeutsch.de"><display-name>DW Deutsch</display-name><icon src="https://i.imgur.com/A1xzjOI.png"/><url>https://mi.tv</url></channel>
+<channel id="EBrazil.br"><display-name>E! HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="EBrazil.br"><display-name>E!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="EPTVSuldeMinas.br"><display-name>EPTV Sul de Minas HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_eptv-sul-de-minas-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="EPTVSuldeMinas.br"><display-name>EPTV Sul de Minas</display-name><icon src="https://cdn.mitvstatic.com/channels/br_eptv-sul-de-minas-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPNBrazil.br"><display-name>ESPN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPNBrazil.br"><display-name>ESPN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ESPNExtraBrazil.br"><display-name>ESPN Extra HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG"/><url>https://mi.tv</url></channel>
+<channel id="ESPNExtraBrazil.br"><display-name>ESPN Extra</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG"/><url>https://mi.tv</url></channel>
+<channel id="Eurochannel.us"><display-name>Eurochannel HD</display-name><icon src="https://i.imgur.com/yXAtmI6.png"/><url>https://mi.tv</url></channel>
+<channel id="Eurochannel.us"><display-name>Eurochannel</display-name><icon src="https://i.imgur.com/yXAtmI6.png"/><url>https://mi.tv</url></channel>
+<channel id="FashionTVBrazil.br"><display-name>FashionTV Brasil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FashionTVBrazil.br"><display-name>FashionTV Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FilmArtsBrazil.br"><display-name>Film&Arts HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png"/><url>https://mi.tv</url></channel>
+<channel id="FilmArtsBrazil.br"><display-name>Film&Arts</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png"/><url>https://mi.tv</url></channel>
+<channel id="FishTV.br"><display-name>Fish TV HD</display-name><icon src="https://i.imgur.com/4h89JKx.png"/><url>https://mi.tv</url></channel>
+<channel id="FishTV.br"><display-name>Fish TV</display-name><icon src="https://i.imgur.com/4h89JKx.png"/><url>https://mi.tv</url></channel>
+<channel id="FoodNetworkBrazil.br"><display-name>Food Network HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://mi.tv</url></channel>
+<channel id="FoodNetworkBrazil.br"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxNewsChannel.us"><display-name>Fox News Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxNewsChannel.us"><display-name>Fox News Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSports2Brazil.br"><display-name>Fox Sports 2 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSports2Brazil.br"><display-name>Fox Sports 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSportsBrazil.br"><display-name>Fox Sports HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FoxSportsBrazil.br"><display-name>Fox Sports</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FXBrazil.br"><display-name>FX HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="FXBrazil.br"><display-name>FX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="GloboNews.br"><display-name>GloboNews HD</display-name><icon src="https://i.imgur.com/3yZyaCm.png"/><url>https://mi.tv</url></channel>
+<channel id="GloboNews.br"><display-name>GloboNews</display-name><icon src="https://i.imgur.com/3yZyaCm.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloob.br"><display-name>Gloob HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gloob_logo.png/512px-Gloob_logo.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloob.br"><display-name>Gloob</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gloob_logo.png/512px-Gloob_logo.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloobinho.br"><display-name>Gloobinho HD</display-name><icon src="https://i.imgur.com/UWkHErt.png"/><url>https://mi.tv</url></channel>
+<channel id="Gloobinho.br"><display-name>Gloobinho</display-name><icon src="https://i.imgur.com/UWkHErt.png"/><url>https://mi.tv</url></channel>
+<channel id="GNT.br"><display-name>GNT HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/512px-GNT_logo-roxo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="GNT.br"><display-name>GNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/512px-GNT_logo-roxo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBO2Brazil.br"><display-name>HBO 2 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBO2Brazil.br"><display-name>HBO 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOBrazil.br"><display-name>HBO HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOBrazil.br"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOFamilyHDBrazil.br"><display-name>HBO Family HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOFamilyHDBrazil.br"><display-name>HBO Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOMundiBrazil.br"><display-name>HBO Mundi HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOMundiBrazil.br"><display-name>HBO Mundi</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOPopBrazil.br"><display-name>HBO Pop HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOPopBrazil.br"><display-name>HBO Pop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOSignatureBrazil.br"><display-name>HBO Signature HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOSignatureBrazil.br"><display-name>HBO Signature</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOXtremeBrazil.br"><display-name>HBO Xtreme HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HBOXtremeBrazil.br"><display-name>HBO Xtreme</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HGTVBrazil.br"><display-name>HGTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HGTVBrazil.br"><display-name>HGTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="History2Brazil.br"><display-name>History 2 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="History2Brazil.br"><display-name>History 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HistoryBrazil.br"><display-name>History HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="HistoryBrazil.br"><display-name>History</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="IdealTV.br"><display-name>Ideal TV HD</display-name><icon src="https://i.imgur.com/djoI9vz.png"/><url>https://mi.tv</url></channel>
+<channel id="IdealTV.br"><display-name>Ideal TV</display-name><icon src="https://i.imgur.com/djoI9vz.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVAltoLitoral.br"><display-name>Inter TV Alto Litoral HD</display-name><icon src="https://i.imgur.com/tc4UHSC.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVAltoLitoral.br"><display-name>Inter TV Alto Litoral</display-name><icon src="https://i.imgur.com/tc4UHSC.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVCabugi.br"><display-name>Inter TV Cabugi HD</display-name><icon src="https://i.imgur.com/dsINUfK.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVCabugi.br"><display-name>Inter TV Cabugi</display-name><icon src="https://i.imgur.com/dsINUfK.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVGrandeMinas.br"><display-name>Inter TV Grande Minas HD</display-name><icon src="https://i.imgur.com/4eoiK0y.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVGrandeMinas.br"><display-name>Inter TV Grande Minas</display-name><icon src="https://i.imgur.com/4eoiK0y.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVSerraPlusMar.br"><display-name>Inter TV Serramar HD</display-name><icon src="https://i.imgur.com/eYCJJFI.png"/><url>https://mi.tv</url></channel>
+<channel id="InterTVSerraPlusMar.br"><display-name>Inter TV Serramar</display-name><icon src="https://i.imgur.com/eYCJJFI.png"/><url>https://mi.tv</url></channel>
+<channel id="InvestigationDiscoveryBrazil.br"><display-name>ID: Investigação Discovery HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="InvestigationDiscoveryBrazil.br"><display-name>ID: Investigação Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ISatBrazil.br"><display-name>I-Sat HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/512px-I.Sat_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ISatBrazil.br"><display-name>I-Sat</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/512px-I.Sat_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="JPNews.br"><display-name>Jovem Pan News HD</display-name><icon src="https://www.lyngsat.com/logo/tv/jj/jp-news-br.png"/><url>https://mi.tv</url></channel>
+<channel id="JPNews.br"><display-name>Jovem Pan News</display-name><icon src="https://www.lyngsat.com/logo/tv/jj/jp-news-br.png"/><url>https://mi.tv</url></channel>
+<channel id="LifetimeBrazil.br"><display-name>Lifetime HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="LifetimeBrazil.br"><display-name>Lifetime</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Loading.br"><display-name>Loading HD</display-name><icon src="https://i.imgur.com/zg556kd.png"/><url>https://mi.tv</url></channel>
+<channel id="Loading.br"><display-name>Loading</display-name><icon src="https://i.imgur.com/zg556kd.png"/><url>https://mi.tv</url></channel>
+<channel id="MaisnaTela.br"><display-name>Mais na Tela HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_globosat-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="MaisnaTela.br"><display-name>Mais na Tela</display-name><icon src="https://cdn.mitvstatic.com/channels/br_globosat-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Megapix.br"><display-name>Megapix HD</display-name><icon src="https://i.imgur.com/qTYv5jt.png"/><url>https://mi.tv</url></channel>
+<channel id="Megapix.br"><display-name>Megapix</display-name><icon src="https://i.imgur.com/qTYv5jt.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVBrazil.br"><display-name>MTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVBrazil.br"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVLive.uk"><display-name>MTV Live HD HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVLive.uk"><display-name>MTV Live HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Multishow.br"><display-name>Multishow HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/512px-Multishow_logo_red_2012.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="Multishow.br"><display-name>Multishow</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/512px-Multishow_logo_red_2012.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="MusicBoxBrazil.br"><display-name>Music Box Brazil HD</display-name><icon src="https://i.imgur.com/EfzZV6k.png"/><url>https://mi.tv</url></channel>
+<channel id="MusicBoxBrazil.br"><display-name>Music Box Brazil</display-name><icon src="https://i.imgur.com/EfzZV6k.png"/><url>https://mi.tv</url></channel>
+<channel id="NatGeoKidsBrazil.br"><display-name>Nat Geo Kids HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/512px-Natgeo_Kids_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NatGeoKidsBrazil.br"><display-name>Nat Geo Kids</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/512px-Natgeo_Kids_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicBrazil.br"><display-name>National Geographic HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicBrazil.br"><display-name>National Geographic</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicWildHDBrazil.br"><display-name>National Geographic Wild HD</display-name><icon src="https://i.imgur.com/0iGKVfE.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicWildHDBrazil.br"><display-name>National Geographic Wild</display-name><icon src="https://i.imgur.com/0iGKVfE.png"/><url>https://mi.tv</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World Japan HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK World Japan</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickelodeonBrazil.br"><display-name>Nick HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickelodeonBrazil.br"><display-name>Nick</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickJrBrazil.br"><display-name>Nick Jr. HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NickJrBrazil.br"><display-name>Nick Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVBlumenau.br"><display-name>NSC TV Blumenau HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-blumenau-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVBlumenau.br"><display-name>NSC TV Blumenau</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-blumenau-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVChapeco.br"><display-name>NSC TV Chapecó HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-chapeco-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVChapeco.br"><display-name>NSC TV Chapecó</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-chapeco-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVCriciuma.br"><display-name>NSC TV Criciúma HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-criciuma_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVCriciuma.br"><display-name>NSC TV Criciúma</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-criciuma_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVFlorianopolis.br"><display-name>NSC TV Florianópolis HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVFlorianopolis.br"><display-name>NSC TV Florianópolis</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVJoinville.br"><display-name>NSC TV Joinville HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-joinville-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NSCTVJoinville.br"><display-name>NSC TV Joinville</display-name><icon src="https://cdn.mitvstatic.com/channels/br_nsc-tv-joinville-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ParamountNetworkBrazil.br"><display-name>Paramount Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="ParamountNetworkBrazil.br"><display-name>Paramount Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="PlayboyTVBrazil.br"><display-name>Playboy TV Brazil HD</display-name><icon src="https://i.imgur.com/k00nQ6l.png"/><url>https://mi.tv</url></channel>
+<channel id="PlayboyTVBrazil.br"><display-name>Playboy TV Brazil</display-name><icon src="https://i.imgur.com/k00nQ6l.png"/><url>https://mi.tv</url></channel>
+<channel id="PremiereClubes.br"><display-name>Premiere Clubes HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="PremiereClubes.br"><display-name>Premiere Clubes</display-name><icon src="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png"/><url>https://mi.tv</url></channel>
+<channel id="PrimeBoxBrazil.br"><display-name>Prime Box Brazil HD</display-name><icon src="https://i.imgur.com/YZ7aSTP.png"/><url>https://mi.tv</url></channel>
+<channel id="PrimeBoxBrazil.br"><display-name>Prime Box Brazil</display-name><icon src="https://i.imgur.com/YZ7aSTP.png"/><url>https://mi.tv</url></channel>
+<channel id="RaiItaliaAmerica.it"><display-name>Rai 01 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="RaiItaliaAmerica.it"><display-name>Rai 01</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="RBATV.br"><display-name>RBA TV HD HD</display-name><icon src="https://i.imgur.com/ZWFxlU1.png"/><url>https://mi.tv</url></channel>
+<channel id="RBATV.br"><display-name>RBA TV HD</display-name><icon src="https://i.imgur.com/ZWFxlU1.png"/><url>https://mi.tv</url></channel>
+<channel id="RBITV.br"><display-name>RBI TV HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbi_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RBITV.br"><display-name>RBI TV</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbi_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVPortoAlegre.br"><display-name>RBS TV Porto Alegre HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVPortoAlegre.br"><display-name>RBS TV Porto Alegre</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVRS.br"><display-name>RBS TV RS HD</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVRS.br"><display-name>RBS TV RS</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVSantaMaria.br"><display-name>RBS TV Santa Maria HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbs-tv-santa-maria-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RBSTVSantaMaria.br"><display-name>RBS TV Santa Maria</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rbs-tv-santa-maria-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordNews.br"><display-name>Record News HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordNews.br"><display-name>Record News</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTV.br"><display-name>RecordTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTV.br"><display-name>RecordTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVBelem.br"><display-name>RecordTV Belém HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bc/Logotipo_da_RecordTV_Bel%C3%A9m.png/512px-Logotipo_da_RecordTV_Bel%C3%A9m.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVBelem.br"><display-name>RecordTV Belém</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bc/Logotipo_da_RecordTV_Bel%C3%A9m.png/512px-Logotipo_da_RecordTV_Bel%C3%A9m.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVCabralia.br"><display-name>RecordTV Cabrália HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/25/RecordCabralia.jpg/512px-RecordCabralia.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVCabralia.br"><display-name>RecordTV Cabrália</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/25/RecordCabralia.jpg/512px-RecordCabralia.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVGoias.br"><display-name>RecordTV Goias HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/Logotipo_da_RecordTV_Goi%C3%A1s.png/512px-Logotipo_da_RecordTV_Goi%C3%A1s.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVGoias.br"><display-name>RecordTV Goias</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/Logotipo_da_RecordTV_Goi%C3%A1s.png/512px-Logotipo_da_RecordTV_Goi%C3%A1s.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVItapoan.br"><display-name>RecordTV Itapoan HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVItapoan.br"><display-name>RecordTV Itapoan</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVMinas.br"><display-name>RecordTV Minas HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Logotipo_da_RecordTV_Minas.png/512px-Logotipo_da_RecordTV_Minas.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVMinas.br"><display-name>RecordTV Minas</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Logotipo_da_RecordTV_Minas.png/512px-Logotipo_da_RecordTV_Minas.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVPaulista.br"><display-name>Record Paulista HD HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/20/Logotipo_da_RecordTV_Paulista.png/512px-Logotipo_da_RecordTV_Paulista.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVPaulista.br"><display-name>Record Paulista HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/2/20/Logotipo_da_RecordTV_Paulista.png/512px-Logotipo_da_RecordTV_Paulista.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRio.br"><display-name>RecordTV Rio HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRio.br"><display-name>RecordTV Rio</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRS.br"><display-name>RecordTV RS HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3c/Logotipo_da_RecordTV_RS.png/512px-Logotipo_da_RecordTV_RS.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVRS.br"><display-name>RecordTV RS</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3c/Logotipo_da_RecordTV_RS.png/512px-Logotipo_da_RecordTV_RS.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVSaoPaulo.br"><display-name>Record São Paulo HD HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://mi.tv</url></channel>
+<channel id="RecordTVSaoPaulo.br"><display-name>Record São Paulo HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://mi.tv</url></channel>
+<channel id="Rede21.br"><display-name>Rede 21 HD</display-name><icon src="https://i.imgur.com/ZddcZww.png"/><url>https://mi.tv</url></channel>
+<channel id="Rede21.br"><display-name>Rede 21</display-name><icon src="https://i.imgur.com/ZddcZww.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonica.br"><display-name>Rede Amazônica HD</display-name><icon src="https://i.imgur.com/HmT5wPf.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonica.br"><display-name>Rede Amazônica</display-name><icon src="https://i.imgur.com/HmT5wPf.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonicaManaus.br"><display-name>Rede Amazônica Manaus HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rede-amazonica-manaus-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeAmazonicaManaus.br"><display-name>Rede Amazônica Manaus</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rede-amazonica-manaus-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeBrasil.br"><display-name>Rede Brasil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeBrasil.br"><display-name>Rede Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeCNTRiodeJaneiro.br"><display-name>Rede CNT Rio de Janeiro HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_cnt-rio-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeCNTRiodeJaneiro.br"><display-name>Rede CNT Rio de Janeiro HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_cnt-rio-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeFamilia.br"><display-name>Rede Família HD</display-name><icon src="https://i.imgur.com/7KVFCrQ.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeFamilia.br"><display-name>Rede Família</display-name><icon src="https://i.imgur.com/7KVFCrQ.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGenesis.br"><display-name>Rede Gênesis HD</display-name><icon src="https://i.imgur.com/oKoZq0w.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGenesis.br"><display-name>Rede Gênesis</display-name><icon src="https://i.imgur.com/oKoZq0w.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGlobo.br"><display-name>Rede Globo HD</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeGlobo.br"><display-name>Rede Globo</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeGospel.br"><display-name>Rede Gospel HD</display-name><icon src="https://i.imgur.com/yvxG9m5.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeGospel.br"><display-name>Rede Gospel</display-name><icon src="https://i.imgur.com/yvxG9m5.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeInternacionaldeTV.br"><display-name>Rede Internacional de TV HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rit_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeInternacionaldeTV.br"><display-name>Rede Internacional de TV</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rit_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMassa.br"><display-name>Rede Massa HD</display-name><icon src="https://i.imgur.com/uAze3CD.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMassa.br"><display-name>Rede Massa</display-name><icon src="https://i.imgur.com/uAze3CD.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMeioNorte.br"><display-name>Rede Meio Norte HD</display-name><icon src="https://i.imgur.com/JrpRCHi.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMeioNorte.br"><display-name>Rede Meio Norte</display-name><icon src="https://i.imgur.com/JrpRCHi.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeMinas.br"><display-name>Rede Minas HD</display-name><icon src="https://i.imgur.com/Tgov03S.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeMinas.br"><display-name>Rede Minas</display-name><icon src="https://i.imgur.com/Tgov03S.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeSeculo21.br"><display-name>Rede Século 21 HD</display-name><icon src="https://i.imgur.com/vvrCWVo.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeSeculo21.br"><display-name>Rede Século 21</display-name><icon src="https://i.imgur.com/vvrCWVo.jpg"/><url>https://mi.tv</url></channel>
+<channel id="RedeSuper.br"><display-name>Rede Super HD</display-name><icon src="https://i.imgur.com/3ODbxcM.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeSuper.br"><display-name>Rede Super</display-name><icon src="https://i.imgur.com/3ODbxcM.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTV.br"><display-name>RedeTV! HD</display-name><icon src="https://i.imgur.com/ZJgD38F.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTV.br"><display-name>RedeTV!</display-name><icon src="https://i.imgur.com/ZJgD38F.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTVRondonia.br"><display-name>Rede TV! Rondônia HD</display-name><icon src="https://i.imgur.com/eQ0UhYw.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeTVRondonia.br"><display-name>Rede TV! Rondônia</display-name><icon src="https://i.imgur.com/eQ0UhYw.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeVida.br"><display-name>Rede Vida HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/512px-Rede_Vida_logo.png"/><url>https://mi.tv</url></channel>
+<channel id="RedeVida.br"><display-name>Rede Vida</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/512px-Rede_Vida_logo.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVCuritiba.br"><display-name>RPC TV Curitiba HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVCuritiba.br"><display-name>RPC TV Curitiba</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVFozdoIguacu.br"><display-name>RPC TV Foz do Iguaçu HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-foz-do-iguacu-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVFozdoIguacu.br"><display-name>RPC TV Foz do Iguaçu</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-foz-do-iguacu-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVMaringa.br"><display-name>RPC TV Maringá HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-maringa-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVMaringa.br"><display-name>RPC TV Maringá</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-maringa-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVParanavai.br"><display-name>RPC TV Paranavaí HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-paranavai-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVParanavai.br"><display-name>RPC TV Paranavaí</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-paranavai-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVPontaGrossa.br"><display-name>RPC TV Ponta Grossa HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-ponta-grossa-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RPCTVPontaGrossa.br"><display-name>RPC TV Ponta Grossa</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rpc-ponta-grossa-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="RTPiAmerica.pt"><display-name>RTPi Brasil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="RTPiAmerica.pt"><display-name>RTPi Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="SBNInternational.us"><display-name>SBN International HD</display-name><icon src="https://i.imgur.com/NJu6oYB.png"/><url>https://mi.tv</url></channel>
+<channel id="SBNInternational.us"><display-name>SBN International</display-name><icon src="https://i.imgur.com/NJu6oYB.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTMS.br"><display-name>SBT MS HD</display-name><icon src="https://i.imgur.com/FfpLRgD.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTMS.br"><display-name>SBT MS</display-name><icon src="https://i.imgur.com/FfpLRgD.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTNacional.br"><display-name>SBT HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sbt_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTNacional.br"><display-name>SBT</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sbt_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTPara.br"><display-name>SBT Pará HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sbt-para_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTPara.br"><display-name>SBT Pará</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sbt-para_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTRio.br"><display-name>SBT Rio HD</display-name><icon src="https://i.imgur.com/WLSauIE.png"/><url>https://mi.tv</url></channel>
+<channel id="SBTRio.br"><display-name>SBT Rio</display-name><icon src="https://i.imgur.com/WLSauIE.png"/><url>https://mi.tv</url></channel>
+<channel id="SESCTV.br"><display-name>SESC TV HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sesctv_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SESCTV.br"><display-name>SESC TV</display-name><icon src="https://cdn.mitvstatic.com/channels/br_sesctv_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Sextreme.br"><display-name>Sextreme HD</display-name><icon src="https://i.imgur.com/6bUpowi.png"/><url>https://mi.tv</url></channel>
+<channel id="Sextreme.br"><display-name>Sextreme</display-name><icon src="https://i.imgur.com/6bUpowi.png"/><url>https://mi.tv</url></channel>
+<channel id="SexyHot.br"><display-name>Sexy Hot HD</display-name><icon src="https://i.imgur.com/q8C4QHJ.png"/><url>https://mi.tv</url></channel>
+<channel id="SexyHot.br"><display-name>Sexy Hot</display-name><icon src="https://i.imgur.com/q8C4QHJ.png"/><url>https://mi.tv</url></channel>
+<channel id="SICInternacional.pt"><display-name>SIC Internacional HD</display-name><icon src="https://i.imgur.com/UgJ5lac.png"/><url>https://mi.tv</url></channel>
+<channel id="SICInternacional.pt"><display-name>SIC Internacional</display-name><icon src="https://i.imgur.com/UgJ5lac.png"/><url>https://mi.tv</url></channel>
+<channel id="SICTV.br"><display-name>SIC TV HD</display-name><icon src="https://i.imgur.com/E0IG98f.png"/><url>https://mi.tv</url></channel>
+<channel id="SICTV.br"><display-name>SIC TV</display-name><icon src="https://i.imgur.com/E0IG98f.png"/><url>https://mi.tv</url></channel>
+<channel id="SonyChannelBrazil.br"><display-name>Sony Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"/><url>https://mi.tv</url></channel>
+<channel id="SonyChannelBrazil.br"><display-name>Sony Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"/><url>https://mi.tv</url></channel>
+<channel id="SpaceBrazil.br"><display-name>Space HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="SpaceBrazil.br"><display-name>Space</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV.br"><display-name>SporTV HD</display-name><icon src="https://i.imgur.com/XNfagj9.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV.br"><display-name>SporTV</display-name><icon src="https://i.imgur.com/XNfagj9.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV2.br"><display-name>SporTV 2 HD</display-name><icon src="https://i.imgur.com/pBiUnb2.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV2.br"><display-name>SporTV 2</display-name><icon src="https://i.imgur.com/pBiUnb2.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV3.br"><display-name>SporTV 3 HD</display-name><icon src="https://i.imgur.com/mWOR8pi.png"/><url>https://mi.tv</url></channel>
+<channel id="SporTV3.br"><display-name>SporTV 3</display-name><icon src="https://i.imgur.com/mWOR8pi.png"/><url>https://mi.tv</url></channel>
+<channel id="StarChannelBrazil.br"><display-name>Star Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StarChannelBrazil.br"><display-name>Star Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StarHitsBrasil.us"><display-name>Star Hits HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_fox-premium-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="StarHitsBrasil.us"><display-name>Star Hits</display-name><icon src="https://cdn.mitvstatic.com/channels/br_fox-premium-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="StarLifeBrazil.br"><display-name>Star Life HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StarLifeBrazil.br"><display-name>Star Life</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="StudioUniversalBrazil.br"><display-name>Studio Universal HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
+<channel id="StudioUniversalBrazil.br"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"/><url>https://mi.tv</url></channel>
+<channel id="SyfyBrazil.br"><display-name>Syfy HD</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://mi.tv</url></channel>
+<channel id="SyfyBrazil.br"><display-name>Syfy</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://mi.tv</url></channel>
+<channel id="TBSBrazil.br"><display-name>TBS HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TBSBrazil.br"><display-name>TBS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TCMBrazil.br"><display-name>TCM HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TCMBrazil.br"><display-name>TCM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineAction.br"><display-name>Telecine Action HD</display-name><icon src="https://i.imgur.com/BHYWG0h.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineAction.br"><display-name>Telecine Action</display-name><icon src="https://i.imgur.com/BHYWG0h.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineCult.br"><display-name>Telecine Cult HD</display-name><icon src="https://i.imgur.com/6GuHXnr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineCult.br"><display-name>Telecine Cult</display-name><icon src="https://i.imgur.com/6GuHXnr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineFun.br"><display-name>Telecine Fun HD</display-name><icon src="https://i.imgur.com/MO2Ynki.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineFun.br"><display-name>Telecine Fun</display-name><icon src="https://i.imgur.com/MO2Ynki.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePipoca.br"><display-name>Telecine Pipoca HD</display-name><icon src="https://i.imgur.com/hW9JYXr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePipoca.br"><display-name>Telecine Pipoca</display-name><icon src="https://i.imgur.com/hW9JYXr.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePremium.br"><display-name>Telecine Premium HD</display-name><icon src="https://i.imgur.com/uVFgIr8.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecinePremium.br"><display-name>Telecine Premium</display-name><icon src="https://i.imgur.com/uVFgIr8.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineTouch.br"><display-name>Telecine Touch HD</display-name><icon src="https://i.imgur.com/Nky0hRo.png"/><url>https://mi.tv</url></channel>
+<channel id="TelecineTouch.br"><display-name>Telecine Touch</display-name><icon src="https://i.imgur.com/Nky0hRo.png"/><url>https://mi.tv</url></channel>
+<channel id="TelefeInternacional.ar"><display-name>Telefe Internacional HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/512px-Telefe_Internacional_%282018%29.png"/><url>https://mi.tv</url></channel>
+<channel id="TelefeInternacional.ar"><display-name>Telefe Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/512px-Telefe_Internacional_%282018%29.png"/><url>https://mi.tv</url></channel>
+<channel id="TerraViva.br"><display-name>Terra Viva HD</display-name><icon src="https://i.imgur.com/hBaG4Ce.png"/><url>https://mi.tv</url></channel>
+<channel id="TerraViva.br"><display-name>Terra Viva</display-name><icon src="https://i.imgur.com/hBaG4Ce.png"/><url>https://mi.tv</url></channel>
+<channel id="TLCBrazil.br"><display-name>TLC HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TLCBrazil.br"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTBrazil.br"><display-name>TNT HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTBrazil.br"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTSeriesBrazil.br"><display-name>TNT Séries HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTSeriesBrazil.br"><display-name>TNT Séries</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/><url>https://mi.tv</url></channel>
+<channel id="TraceBrazuca.fr"><display-name>Trace Brazuca HD</display-name><icon src="https://i.imgur.com/DFBocPu.png"/><url>https://mi.tv</url></channel>
+<channel id="TraceBrazuca.fr"><display-name>Trace Brazuca</display-name><icon src="https://i.imgur.com/DFBocPu.png"/><url>https://mi.tv</url></channel>
+<channel id="TravelBoxBrazil.br"><display-name>Travel Box Brazil HD</display-name><icon src="https://i.imgur.com/lyzaNKI.png"/><url>https://mi.tv</url></channel>
+<channel id="TravelBoxBrazil.br"><display-name>Travel Box Brazil</display-name><icon src="https://i.imgur.com/lyzaNKI.png"/><url>https://mi.tv</url></channel>
+<channel id="TruTVBrazil.br"><display-name>TruTV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png"/><url>https://mi.tv</url></channel>
+<channel id="TruTVBrazil.br"><display-name>TruTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png"/><url>https://mi.tv</url></channel>
+<channel id="TVACritica.br"><display-name>TV A Crítica HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-a-critica_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVACritica.br"><display-name>TV A Crítica</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-a-critica_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVALESP.br"><display-name>TV ALESP HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-alesp_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVALESP.br"><display-name>TV ALESP</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-alesp_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAmapa.br"><display-name>TV Amapá HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-amapa_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAmapa.br"><display-name>TV Amapá</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-amapa_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAnhangueraGoiania.br"><display-name>TV Anhanguera HD HD</display-name><icon src="https://www.lyngsat.com/logo/tv/tt/tv-anhanguera-br.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAnhangueraGoiania.br"><display-name>TV Anhanguera HD</display-name><icon src="https://www.lyngsat.com/logo/tv/tt/tv-anhanguera-br.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAntena10.br"><display-name>TV Antena 10 HD</display-name><icon src="https://i.imgur.com/M4X95Uc.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAntena10.br"><display-name>TV Antena 10</display-name><icon src="https://i.imgur.com/M4X95Uc.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAparecida.br"><display-name>TV Aparecida HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAparecida.br"><display-name>TV Aparecida</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAratu.br"><display-name>TV Aratu HD</display-name><icon src="https://i.imgur.com/8WCRbn1.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAratu.br"><display-name>TV Aratu</display-name><icon src="https://i.imgur.com/8WCRbn1.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaCeara.br"><display-name>TV Assembléia Ceará HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_assembleia-legislativa-ceara-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaCeara.br"><display-name>TV Assembléia Ceará HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_assembleia-legislativa-ceara-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaMinasGerais.br"><display-name>TV Assembléia Minas Gerais HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-assembleia-de-minas-gerais_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAssembleiaMinasGerais.br"><display-name>TV Assembléia Minas Gerais</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-assembleia-de-minas-gerais_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAtalaia.br"><display-name>TV Atalaia HD</display-name><icon src="https://i.imgur.com/2uiKzmu.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAtalaia.br"><display-name>TV Atalaia</display-name><icon src="https://i.imgur.com/2uiKzmu.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBahia.br"><display-name>TV Bahia HD</display-name><icon src="https://i.imgur.com/rDTdWOV.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBahia.br"><display-name>TV Bahia</display-name><icon src="https://i.imgur.com/rDTdWOV.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBrasil.br"><display-name>TV Brasil HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVBrasil.br"><display-name>TV Brasil</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCaboBranco.br"><display-name>TV Cabo Branco HD</display-name><icon src="https://i.imgur.com/AkGLbtY.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCaboBranco.br"><display-name>TV Cabo Branco</display-name><icon src="https://i.imgur.com/AkGLbtY.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCamara.br"><display-name>TV Câmara HD</display-name><icon src="https://i.imgur.com/UpV2PRk.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCamara.br"><display-name>TV Câmara</display-name><icon src="https://i.imgur.com/UpV2PRk.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCancaoNova.br"><display-name>Canção Nova HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCancaoNova.br"><display-name>Canção Nova</display-name><icon src="https://cdn.mitvstatic.com/channels/br_canc-o-nova_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCapixaba.br"><display-name>TV Capixaba HD</display-name><icon src="https://i.imgur.com/IW32xZD.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCapixaba.br"><display-name>TV Capixaba</display-name><icon src="https://i.imgur.com/IW32xZD.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCeara.br"><display-name>TV Ceará HD</display-name><icon src="https://i.imgur.com/63Cn9be.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCeara.br"><display-name>TV Ceará</display-name><icon src="https://i.imgur.com/63Cn9be.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCentroAmericaCuiaba.br"><display-name>TV Centro América Cuiabá HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-centro-america-cuiaba_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCentroAmericaCuiaba.br"><display-name>TV Centro América Cuiabá</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-centro-america-cuiaba_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeSaoLuiz.br"><display-name>TV Cidade São Luíz HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-cidade-s-o-luis-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeSaoLuiz.br"><display-name>TV Cidade São Luíz HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-cidade-s-o-luis-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeVerdeCuiaba.br"><display-name>TV Cidade Verde Cuiabá HD HD</display-name><icon src="https://i.imgur.com/qpFKttz.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCidadeVerdeCuiaba.br"><display-name>TV Cidade Verde Cuiabá HD</display-name><icon src="https://i.imgur.com/qpFKttz.png"/><url>https://mi.tv</url></channel>
+<channel id="TVClube.br"><display-name>TV Clube HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-clube_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVClube.br"><display-name>TV Clube</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-clube_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCorreio.br"><display-name>TV Correio HD</display-name><icon src="https://i.imgur.com/HMYGxU9.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCorreio.br"><display-name>TV Correio</display-name><icon src="https://i.imgur.com/HMYGxU9.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCulturaNacional.br"><display-name>Cultura HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_cultura_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVCulturaNacional.br"><display-name>Cultura</display-name><icon src="https://cdn.mitvstatic.com/channels/br_cultura_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDiario.br"><display-name>TV Diário HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/512px-TV_Di%C3%A1rio_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDiario.br"><display-name>TV Diário</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/512px-TV_Di%C3%A1rio_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDifusoraSaoLuis.br"><display-name>TV Difusora São Luís HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVDifusoraSaoLuis.br"><display-name>TV Difusora São Luís</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVE.br"><display-name>TVE HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png"/><url>https://mi.tv</url></channel>
+<channel id="TVE.br"><display-name>TVE</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEBahia.br"><display-name>TVE Bahia HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEBahia.br"><display-name>TVE Bahia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEInternacionalAmerica.es"><display-name>TVE HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/512px-Logo_TVE-Internacional.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEInternacionalAmerica.es"><display-name>TVE</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/512px-Logo_TVE-Internacional.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEmTempo.br"><display-name>TV Em Tempo HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-em-tempo-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEmTempo.br"><display-name>TV Em Tempo HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-em-tempo-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEscola.br"><display-name>TV Escola HD</display-name><icon src="https://i.imgur.com/z76Gbsm.png"/><url>https://mi.tv</url></channel>
+<channel id="TVEscola.br"><display-name>TV Escola</display-name><icon src="https://i.imgur.com/z76Gbsm.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGazeta.br"><display-name>Gazeta HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGazeta.br"><display-name>Gazeta</display-name><icon src="https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboBrasilia.br"><display-name>Globo Brasília HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboBrasilia.br"><display-name>Globo Brasília</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboNordeste.br"><display-name>Globo Nordeste HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboNordeste.br"><display-name>Globo Nordeste</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboRiodeJaneiro.br"><display-name>Globo Rio HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboRiodeJaneiro.br"><display-name>Globo Rio</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboSaoPaulo.br"><display-name>Globo SP HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGloboSaoPaulo.br"><display-name>Globo SP</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGoianiaBand.br"><display-name>TV Goiânia Band HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/e/e6/TV_Goi%C3%A2nia.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGoianiaBand.br"><display-name>TV Goiânia Band</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/e/e6/TV_Goi%C3%A2nia.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGuara.br"><display-name>TV Guará HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-guara-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVGuara.br"><display-name>TV Guará HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-guara-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVHorizonte.br"><display-name>TV Horizonte HD</display-name><icon src="https://i.imgur.com/lO6Yyj3.png"/><url>https://mi.tv</url></channel>
+<channel id="TVHorizonte.br"><display-name>TV Horizonte</display-name><icon src="https://i.imgur.com/lO6Yyj3.png"/><url>https://mi.tv</url></channel>
+<channel id="TVIguacu.br"><display-name>TV Iguaçu HD HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-iguacu-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVIguacu.br"><display-name>TV Iguaçu HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-iguacu-hd_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJangadeiro.br"><display-name>TV Jangadeiro HD</display-name><icon src="https://i.imgur.com/woBJeSn.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJangadeiro.br"><display-name>TV Jangadeiro</display-name><icon src="https://i.imgur.com/woBJeSn.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJornalCaruaru.br"><display-name>TV Jornal Caruaru HD</display-name><icon src="https://i.imgur.com/IUDRW8l.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJornalCaruaru.br"><display-name>TV Jornal Caruaru</display-name><icon src="https://i.imgur.com/IUDRW8l.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJustica.br"><display-name>TV Justiça HD</display-name><icon src="https://i.imgur.com/UYy0dsl.png"/><url>https://mi.tv</url></channel>
+<channel id="TVJustica.br"><display-name>TV Justiça</display-name><icon src="https://i.imgur.com/UYy0dsl.png"/><url>https://mi.tv</url></channel>
+<channel id="TVLiberal.br"><display-name>TV Liberal HD</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="TVLiberal.br"><display-name>TV Liberal</display-name><icon src="https://cdn.mitvstatic.com/channels/globo_m.jpg"/><url>https://mi.tv</url></channel>
+<channel id="TVNovoTempoBrasil.br"><display-name>TV Novo Tempo HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-novo-tempo_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVNovoTempoBrasil.br"><display-name>TV Novo Tempo</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-novo-tempo_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPajucara.br"><display-name>TV Pajuçara HD</display-name><icon src="https://i.imgur.com/95rbgtk.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPajucara.br"><display-name>TV Pajuçara</display-name><icon src="https://i.imgur.com/95rbgtk.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPampa.br"><display-name>TV Pampa HD HD</display-name><icon src="https://i.imgur.com/Cnc1Mqo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPampa.br"><display-name>TV Pampa HD</display-name><icon src="https://i.imgur.com/Cnc1Mqo.png"/><url>https://mi.tv</url></channel>
+<channel id="TVParanaiba.br"><display-name>TV Paranaíba HD HD</display-name><icon src="https://i.imgur.com/u6Kz9IE.png"/><url>https://mi.tv</url></channel>
+<channel id="TVParanaiba.br"><display-name>TV Paranaíba HD</display-name><icon src="https://i.imgur.com/u6Kz9IE.png"/><url>https://mi.tv</url></channel>
+<channel id="TVParanaTurismo.br"><display-name>TV Paraná Turismo HD HD</display-name><icon src="https://i.imgur.com/3lxkJxb.png"/><url>https://mi.tv</url></channel>
+<channel id="TVParanaTurismo.br"><display-name>TV Paraná Turismo HD</display-name><icon src="https://i.imgur.com/3lxkJxb.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPontaNegra.br"><display-name>TV Ponta Negra HD</display-name><icon src="https://i.imgur.com/gMPVltB.png"/><url>https://mi.tv</url></channel>
+<channel id="TVPontaNegra.br"><display-name>TV Ponta Negra</display-name><icon src="https://i.imgur.com/gMPVltB.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRaTimBum.br"><display-name>TV Rá Tim Bum HD</display-name><icon src="https://i.imgur.com/JIQwz0w.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRaTimBum.br"><display-name>TV Rá Tim Bum</display-name><icon src="https://i.imgur.com/JIQwz0w.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRioSul.br"><display-name>TV Rio Sul HD HD</display-name><icon src="https://i.imgur.com/x38vfwv.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRioSul.br"><display-name>TV Rio Sul HD</display-name><icon src="https://i.imgur.com/x38vfwv.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRondonia.br"><display-name>TV Rondônia HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-rondonia_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVRondonia.br"><display-name>TV Rondônia</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-rondonia_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSantaCruz.br"><display-name>TV Santa Cruz HD HD</display-name><icon src="https://i.imgur.com/Jyw5BB2.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSantaCruz.br"><display-name>TV Santa Cruz HD</display-name><icon src="https://i.imgur.com/Jyw5BB2.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSenado.br"><display-name>TV Senado HD</display-name><icon src="https://i.imgur.com/duy6waL.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSenado.br"><display-name>TV Senado</display-name><icon src="https://i.imgur.com/duy6waL.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSergipe.br"><display-name>TV Sergipe HD HD</display-name><icon src="https://i.imgur.com/tJSisDK.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSergipe.br"><display-name>TV Sergipe HD</display-name><icon src="https://i.imgur.com/tJSisDK.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSerraDourada.br"><display-name>TV Serra Dourada HD HD</display-name><icon src="https://i.imgur.com/NU741e5.png"/><url>https://mi.tv</url></channel>
+<channel id="TVSerraDourada.br"><display-name>TV Serra Dourada HD</display-name><icon src="https://i.imgur.com/NU741e5.png"/><url>https://mi.tv</url></channel>
+<channel id="TVT.br"><display-name>TVT HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tvt_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVT.br"><display-name>TVT</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tvt_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTribuna.br"><display-name>TV Tribuna HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-tribuna-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTribuna.br"><display-name>TV Tribuna</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-tribuna-1_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTropical.br"><display-name>TV Tropical HD</display-name><icon src="https://i.imgur.com/TD6ZJoa.png"/><url>https://mi.tv</url></channel>
+<channel id="TVTropical.br"><display-name>TV Tropical</display-name><icon src="https://i.imgur.com/TD6ZJoa.png"/><url>https://mi.tv</url></channel>
+<channel id="TVUniaoFortaleza.br"><display-name>TV União Fortaleza HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-uni-o_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVUniaoFortaleza.br"><display-name>TV União Fortaleza</display-name><icon src="https://cdn.mitvstatic.com/channels/br_tv-uni-o_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVVerdesMares.br"><display-name>TV Verdes Mares HD</display-name><icon src="https://i.imgur.com/UioMlsp.png"/><url>https://mi.tv</url></channel>
+<channel id="TVVerdesMares.br"><display-name>TV Verdes Mares</display-name><icon src="https://i.imgur.com/UioMlsp.png"/><url>https://mi.tv</url></channel>
+<channel id="UniversalTVBrazil.br"><display-name>Universal TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="UniversalTVBrazil.br"><display-name>Universal TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="UnivespTV.br"><display-name>Univesp TV HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_univesp-tv_m.png"/><url>https://mi.tv</url></channel>
+<channel id="UnivespTV.br"><display-name>Univesp TV</display-name><icon src="https://cdn.mitvstatic.com/channels/br_univesp-tv_m.png"/><url>https://mi.tv</url></channel>
+<channel id="VH1Europe.uk"><display-name>VH1 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/512px-VH1_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="VH1Europe.uk"><display-name>VH1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/512px-VH1_2020.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannelBrazil.br"><display-name>Warner Channel HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="WarnerChannelBrazil.br"><display-name>Warner Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png"/><url>https://mi.tv</url></channel>
+<channel id="WooHoo.br"><display-name>WooHoo HD</display-name><icon src="https://i.imgur.com/me622pa.png"/><url>https://mi.tv</url></channel>
+<channel id="WooHoo.br"><display-name>WooHoo</display-name><icon src="https://i.imgur.com/me622pa.png"/><url>https://mi.tv</url></channel>
+<channel id="ZooMooBrazil.br"><display-name>ZooMoo HD</display-name><icon src="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png"/><url>https://mi.tv</url></channel>
+<channel id="ZooMooBrazil.br"><display-name>ZooMoo</display-name><icon src="https://cdn.mitvstatic.com/channels/br_zoomoo_m.png"/><url>https://mi.tv</url></channel>
